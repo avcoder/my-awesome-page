@@ -1,0 +1,7 @@
+#root {
+  height: 200px;
+  width: 80%;
+  display: flex;
+  gap: 50px;
+  justify-content: flex-start;
+}
